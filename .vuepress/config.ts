@@ -3,14 +3,14 @@ import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "Liccsu's Blog",
-  description: "Just a simple blog.",
+  title: "Icefrog's Blog",
+  description: "Homo homini lupus.",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
-    author: "Liccsu",
+    author: "Icefrog",
     authorAvatar: "/head.png",
-    docsRepo: "https://github.com/Liccsu/Liccsu.github.io",
+    docsRepo: "https://github.com/FlanderScarlet/FlanderScarlet.github.io",
     docsBranch: "main",
     // docsDir: "docs",
     lastUpdatedText: "",
