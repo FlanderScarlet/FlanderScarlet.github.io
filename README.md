@@ -17,8 +17,8 @@ bannerBrand:
     - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
 blog:
   socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/Liccsu' }
-    - { icon: 'Email', link: 'mailto://liccsu@163.com' }
+    - { icon: 'LogoGithub', link: 'https://github.com/FlanderScarlet' }
+    - { icon: 'Email', link: 'mailto://icefrogs@foxmail.com' }
 footer:
   startYear: 2024
 isShowTitleInHome: true
