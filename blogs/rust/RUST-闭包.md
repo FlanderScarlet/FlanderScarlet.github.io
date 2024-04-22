@@ -5,6 +5,7 @@ tags:
  - rust
 categories:
  - rust
+ - cpp
 ---
 
 # 闭包
