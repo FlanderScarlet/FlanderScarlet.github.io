@@ -4,8 +4,7 @@ date: 2024/04/22
 tags:
  - rust
 categories:
- - rust
- - cpp
+ - rust学习
 ---
 
 # 闭包
