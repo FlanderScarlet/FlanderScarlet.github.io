@@ -29,9 +29,8 @@ export default defineUserConfig({
     // },
     navbar: [
       { text: "主页", link: "/" },
-      { text: "分类", link: "/categories/STM32/1/" },
-      { text: "分类", link: "/categories/Git/1/" },
-      { text: "标签", link: "/tags/Git/1/" },
+      { text: "分类", link: "/categories/rust/1/" },
+      { text: "标签", link: "/tags/rust/1/" },
       // {
       //   text: "Docs",
       //   children: [
